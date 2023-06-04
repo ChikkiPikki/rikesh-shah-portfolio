@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/.firebase
+/.next
 /.pnp
 .pnp.js
 
