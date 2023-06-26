@@ -10,6 +10,7 @@ import ltfoods from "@/images/photos/companies/ltfoods.png"
 import makson from "@/images/photos/companies/makson.jpg"
 import parleagro from "@/images/photos/companies/parleagro.png"
 import piramal from "@/images/photos/companies/piramal.png"
+import artline from "@/images/photos/companies/artline.png"
 import { Container } from '@/components/Container'
 import { Button } from '@/components/Button'
 
@@ -18,9 +19,22 @@ import { Button } from '@/components/Button'
 const projectObjects = [
   {
     id: 1,
+    companyName: "Sachihata India (Artline)",
+    companyLogo: artline,
+    timePeriod: "May 2023 - Present (2 mos)",
+    location: "Ahmedabad, Gujarat",
+    jobProfile: "Business Development Manager",
+    skillsUsed: ["Sales management", "Appointing S.O.s", "Appointing distributors", "Designing beats"],
+    description: `Currently handling 2 A.S.M.s and 3 sales officers. Job also includes appointment of distributors and
+    sales officers, designing beats and implementing coverage plans.`,
+    achievements: ["Handling 3 super-stockists", "New scheme implementations"]
+  }
+  ,
+  {
+    id: 1 + 1,
     companyName: "Kores (India) Limited",
     companyLogo: kores,
-    timePeriod: "Aug 2017 - Present (5 yrs 9 mos)",
+    timePeriod: "Aug 2017 - June 2023 (5 yrs 11 mos)",
     location: "Ahmedabad, Gujarat",
     jobProfile: "Branch Manager",
     skillsUsed: ["Marketing Management", "Product Launch", "Sales Schemes", "Appointing T.S.I.s"],
@@ -28,7 +42,7 @@ const projectObjects = [
     achievements: ["Improved Outstanding Collection", "Appointed 8 S.E.s", "Appointed 1 A.S.M."]
   },
   {
-    id: 2,
+    id: 1 + 2,
     companyName: "Dr. Reddy's Laboratories",
     companyLogo: drreddy,
     timePeriod: "Mar 2015 - Aug 2017 (2 yrs 6 mos)",
@@ -39,7 +53,7 @@ const projectObjects = [
     achievements: ["Created 16 new OTC Distributors", "Appointed 8 S.O.s"]
   },
   {
-    id: 3,
+    id: 1 + 3,
     companyName: "LT Foods Ltd.",
     companyLogo: ltfoods,
     timePeriod: "May 2014 - Mar 2015 (11 mos)",
@@ -50,7 +64,7 @@ const projectObjects = [
     achievements: ["Appointed 6 S.O.s", "Appointed 9 S.E.s"]
   },
   {
-    id: 4,
+    id: 1 + 4,
     companyName: "Makson Group",
     companyLogo: makson,
     timePeriod: "Nov 2013 - May 2014 (7 mos)",
@@ -61,7 +75,7 @@ const projectObjects = [
     achievements: ["Appointed 15 S.E.s", "Appointed 8 Super-Stockists across Gujarat"]
   },
   {
-    id: 5,
+    id: 1 + 5,
     companyName: "Parle Agro Pvt. Ltd.",
     companyLogo: parleagro,
     timePeriod: "Aug 2012 - Nov 2013 (1 yr 4 mos)",
@@ -72,7 +86,7 @@ const projectObjects = [
     achievements: ["Appointed 7 Growth Officers", "Appointed 1 A.S.M."]
   },
   {
-    id: 6,
+    id: 1 + 6,
     companyName: "Piramal Group",
     companyLogo: piramal,
     timePeriod: "Jul 2009 - Jul 2012 (3 yrs 1 mo)",
@@ -83,7 +97,7 @@ const projectObjects = [
     achievements: ["Achieved 60% year-on-year growth", "Appointed 28 distributors"]
   },
   {
-    id: 7,
+    id: 1 + 7,
     companyName: "Unilever",
     companyLogo: unilever,
     timePeriod: "Jun 2004 - Jul 2009 (5 yrs 2 mos)",
