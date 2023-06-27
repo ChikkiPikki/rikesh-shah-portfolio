@@ -38,7 +38,7 @@ const projectObjects = [
     location: "Ahmedabad, Gujarat",
     jobProfile: "Branch Manager",
     skillsUsed: ["Marketing Management", "Product Launch", "Sales Schemes", "Appointing T.S.I.s"],
-    description: "Currently handling all of Gujarat. Includes 112 dealer and distributors across all districts, and managing 9 sales executives, and one ASM directly reporting to me.",
+    description: "Handled all of Gujarat. Included 112 dealer and distributors across all districts, and managing 9 sales executives, and one ASM directly reporting to me.",
     achievements: ["Improved Outstanding Collection", "Appointed 8 S.E.s", "Appointed 1 A.S.M."]
   },
   {
