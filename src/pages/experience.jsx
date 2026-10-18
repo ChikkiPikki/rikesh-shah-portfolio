@@ -21,7 +21,7 @@ const projectObjects = [
     id: 1,
     companyName: "Sachihata India (Artline)",
     companyLogo: artline,
-    timePeriod: "May 2023 - Present (2 mos)",
+    timePeriod: "May 2023 - Sep 2024 (1 yr 5 mos)",
     location: "Ahmedabad, Gujarat",
     jobProfile: "Business Development Manager",
     skillsUsed: ["Sales management", "Appointing S.O.s", "Appointing distributors", "Designing beats"],

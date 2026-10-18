@@ -111,7 +111,7 @@ export default function About() {
                 launches and placements, as well as designing sales schemes, and countering competition&apos;s moves.
               </p>
               <p>
-                Currently, I reside in the city of Vadodara, where I live with my family - a beautiful wife, who is a yoga instructor; and a wonderful son, a web developer.
+                Currently, I reside in the city of Ahmedabad, where I live with my family - a beautiful wife, who is a yoga instructor; and a wonderful son, an engineer.
               </p>
 
             </div>
