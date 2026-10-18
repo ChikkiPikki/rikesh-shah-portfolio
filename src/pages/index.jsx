@@ -254,7 +254,7 @@ export default function Home({ articles }) {
         </title>
         <meta
           name="description"
-          content="I’m Rikesh Shah, a Branch Manager (Sales) at Kores India Ltd.
+          content="I’m Rikesh Shah.
             I have been in the sales field for over
             two decades, working for reputed companies such
             as Piramal Healthcare and Hindustan Unilever."
@@ -266,7 +266,7 @@ export default function Home({ articles }) {
             Gujarat Sales Manager, Regional Growth Manager
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Rikesh Shah, a Branch Manager (Sales) at Kores India Ltd.
+            I’m Rikesh Shah.
             I have been in the sales field for over
             two decades, working for reputed companies such
             as Piramal Healthcare and Hindustan Unilever.
